@@ -14,3 +14,7 @@
 
 #### by [Xiaomi Firmware Updater](https://github.com/XiaomiFirmwareUpdater)
 #### Developer: [yshalsager](https://github.com/yshalsager)
+
+Firmware packages for `beryllium`, extracted from official Xiaomi ROMs.
+
+All firmware versions, mirrors and changelogs for this device: https://xmfirmwareupdater.com/firmware/beryllium/
